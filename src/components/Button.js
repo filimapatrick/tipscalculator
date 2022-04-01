@@ -3,8 +3,8 @@ import styled from 'styled-components'
 
 function Button({children}) {
     const Button = styled.button`
-    background:${props => props.primary ? '#0A4746' : 'blue'};
-    color:${props => props.primary ? 'white' : 'palevioletred'};
+    background:${props => props.primary ? '#0A4746' : 'brown'};
+    color:${props => props.primary ? 'white' : '#2DC1AE'};
     font-size:1em;
     margin:1em;
 

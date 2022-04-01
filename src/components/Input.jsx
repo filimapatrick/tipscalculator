@@ -11,7 +11,7 @@ function Input() {
     margin-top:1rem;
     border-radius:5px;
     margin-bottom:2rem;
-    
+   
 
     &:focus{
         background-color:#3CBC8D;
